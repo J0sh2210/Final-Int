@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aquamarine;
+}
+
+tr {
+    border: 1px;
+    border-color: blue;
+}
+
+table {
+    border: 2px;
+    border-color: black;
+}
