@@ -1,0 +1,6 @@
+CREATE TABLE alumno ( carnet INT PRIMARY KEY, nombre VARCHAR(100), grado VARCHAR(50), telefono VARCHAR(20) );
+
+INSERT INTO alumno (carnet, nombre, grado, telefono) VALUES (1, 'Juan Pérez', 'Noveno grado', '1234567890'), (2, 'María López', 'Décimo grado', '9876543210'), (3, 'Pedro Gómez', 'Undécimo grado', '5555555555');
+
+
+INSERT INTO alumno (carnet, nombre, grado,telefono) VALUES (4, 'Pedo Escalante','Primero grado','54402323'), (5,'Martha Lopez', 'Segundo grado','89990011');
